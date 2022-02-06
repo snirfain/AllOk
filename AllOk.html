@@ -1,0 +1,66 @@
+﻿<!doctype html>
+<html lang="he">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>הכל בסדר</title>
+    <meta name="description" content="name of game" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="names" />
+
+    <!-- CSS -->
+
+    <link href="styles/myStyle.css" rel="stylesheet" />
+
+    <!-- Scripts -->
+    <!--jQuery library-->
+    <script src="jScripts/jquery-1.12.0.min.js"></script>
+    <script src="jScripts/myScript.js"></script>
+
+
+</head>
+
+<body>
+    <div id="container">
+        <header>
+     
+            <a href="AllOk.html">
+                <img id="logo" src="Logo\logo.png"/> 
+                <p>הַכֹּל בְּסֵדֶר</p>
+            </a>
+    
+            <nav>
+                <ul>
+                    <li><a class="about">אודות</a></li>
+                    <li><a class="howToPlay">איך משחקים?</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="aboutDiv" class="popUp bounceInDown hide">
+            <a class="closeAbout">X</a>
+            <a style="width:100%" href="https://www.hit.ac.il/telem/overview">
+
+                <img id="aboutIframe" style="  margin: auto;  width: 690px; height: 480px" src="Odot\אודות.JPG"/>
+            </a>
+        </div>
+        <div id="howToPlayDiv" class="popUp bounceInDown hide">
+            <a class="closeHowToPlay">X</a>
+
+            <a>
+
+                <video style="  margin: auto;  width: 690px; height: 480px" controls>
+                    <source src="HowToPlay\HowToPlayAllOk.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+
+            </a>
+        </div>
+
+        <div id="gameArea" class="">
+            <iframe id="gameIframe" src="Game\AllOk_V3.24_6.2.22_forSubmission.html" frameBorder="0" allowfullscreen="">Browser not compatible.</iframe>
+        </div>
+    </div>
+</body>
+
+</html>

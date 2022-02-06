@@ -1,0 +1,347 @@
+{"frames": {
+
+"BdokBtn":
+{
+	"frame": {"x":1793,"y":1188,"w":185,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":64},
+	"sourceSize": {"w":185,"h":64}
+},
+"Bitmap43copy":
+{
+	"frame": {"x":1164,"y":945,"w":627,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":627,"h":391},
+	"sourceSize": {"w":627,"h":391}
+},
+"CachedBmp_1":
+{
+	"frame": {"x":618,"y":1810,"w":502,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":100},
+	"sourceSize": {"w":502,"h":100}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":618,"y":1912,"w":500,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":98},
+	"sourceSize": {"w":500,"h":98}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":1793,"y":759,"w":240,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":205},
+	"sourceSize": {"w":240,"h":205}
+},
+"CachedBmp_4":
+{
+	"frame": {"x":991,"y":1578,"w":281,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":230},
+	"sourceSize": {"w":281,"h":230}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":1349,"y":1567,"w":308,"h":387},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":308,"h":387},
+	"sourceSize": {"w":308,"h":387}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":1793,"y":552,"w":240,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":205},
+	"sourceSize": {"w":240,"h":205}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":1659,"y":1567,"w":281,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":230},
+	"sourceSize": {"w":281,"h":230}
+},
+"ComboBox":
+{
+	"frame": {"x":1983,"y":171,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"Group1242":
+{
+	"frame": {"x":1793,"y":966,"w":72,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":220},
+	"sourceSize": {"w":72,"h":220}
+},
+"Group1243":
+{
+	"frame": {"x":1907,"y":0,"w":74,"h":476},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":476},
+	"sourceSize": {"w":74,"h":476}
+},
+"ODOTlogo":
+{
+	"frame": {"x":1164,"y":0,"w":741,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":741,"h":550},
+	"sourceSize": {"w":741,"h":550}
+},
+"SIXTHREE":
+{
+	"frame": {"x":1907,"y":478,"w":93,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":70},
+	"sourceSize": {"w":93,"h":70}
+},
+"SQUERplaceHolder":
+{
+	"frame": {"x":1867,"y":966,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"V":
+{
+	"frame": {"x":1970,"y":1043,"w":76,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":72},
+	"sourceSize": {"w":76,"h":72}
+},
+"X":
+{
+	"frame": {"x":1983,"y":131,"w":37,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":38},
+	"sourceSize": {"w":37,"h":38}
+},
+"airplan":
+{
+	"frame": {"x":1953,"y":1448,"w":93,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":58},
+	"sourceSize": {"w":93,"h":58}
+},
+"answersBank":
+{
+	"frame": {"x":1164,"y":552,"w":627,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":627,"h":391},
+	"sourceSize": {"w":627,"h":391}
+},
+"ant":
+{
+	"frame": {"x":1953,"y":1508,"w":93,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":58},
+	"sourceSize": {"w":93,"h":58}
+},
+"continueGame":
+{
+	"frame": {"x":907,"y":1264,"w":185,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":64},
+	"sourceSize": {"w":185,"h":64}
+},
+"eraser":
+{
+	"frame": {"x":1953,"y":1320,"w":93,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":62},
+	"sourceSize": {"w":93,"h":62}
+},
+"featherBall":
+{
+	"frame": {"x":1953,"y":1384,"w":93,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":62},
+	"sourceSize": {"w":93,"h":62}
+},
+"gameName":
+{
+	"frame": {"x":545,"y":1578,"w":444,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":444,"h":169},
+	"sourceSize": {"w":444,"h":169}
+},
+"grassBar":
+{
+	"frame": {"x":1970,"y":1117,"w":74,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":61},
+	"sourceSize": {"w":74,"h":61}
+},
+"musicOff":
+{
+	"frame": {"x":1983,"y":0,"w":49,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":49},
+	"sourceSize": {"w":49,"h":49}
+},
+"musicOn":
+{
+	"frame": {"x":1983,"y":51,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"newSub":
+{
+	"frame": {"x":1659,"y":1799,"w":185,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":64},
+	"sourceSize": {"w":185,"h":64}
+},
+"nextQu":
+{
+	"frame": {"x":1793,"y":1254,"w":185,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":64},
+	"sourceSize": {"w":185,"h":64}
+},
+"pauseGame":
+{
+	"frame": {"x":1983,"y":91,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"questionBG":
+{
+	"frame": {"x":720,"y":1338,"w":627,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":627,"h":238},
+	"sourceSize": {"w":627,"h":238}
+},
+"sloth2hand":
+{
+	"frame": {"x":0,"y":1733,"w":311,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":181},
+	"sourceSize": {"w":311,"h":181}
+},
+"sloth4hand":
+{
+	"frame": {"x":313,"y":1749,"w":303,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":303,"h":181},
+	"sourceSize": {"w":303,"h":181}
+},
+"startBtn":
+{
+	"frame": {"x":720,"y":1264,"w":185,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":64},
+	"sourceSize": {"w":185,"h":64}
+},
+"stopGame":
+{
+	"frame": {"x":0,"y":632,"w":1162,"h":630},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1162,"h":630},
+	"sourceSize": {"w":1162,"h":630}
+},
+"talkBubble":
+{
+	"frame": {"x":0,"y":1264,"w":718,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":718,"h":238},
+	"sourceSize": {"w":718,"h":238}
+},
+"timeOver":
+{
+	"frame": {"x":0,"y":0,"w":1162,"h":630},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1162,"h":630},
+	"sourceSize": {"w":1162,"h":630}
+},
+"treeBar":
+{
+	"frame": {"x":1867,"y":1068,"w":101,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":99},
+	"sourceSize": {"w":101,"h":99}
+},
+"upDown":
+{
+	"frame": {"x":1969,"y":966,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75}
+},
+"שעון":
+{
+	"frame": {"x":545,"y":1504,"w":113,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":51},
+	"sourceSize": {"w":113,"h":51}
+},
+"תגובה":
+{
+	"frame": {"x":1349,"y":1338,"w":602,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":602,"h":227},
+	"sourceSize": {"w":602,"h":227}
+},
+"תגובה1":
+{
+	"frame": {"x":0,"y":1504,"w":543,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":543,"h":227},
+	"sourceSize": {"w":543,"h":227}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.9.42677",
+	"image": "AllOk_V3.24_6.2.22_forSubmission_atlas_1.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
