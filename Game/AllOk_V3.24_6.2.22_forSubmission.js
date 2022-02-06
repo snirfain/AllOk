@@ -1358,7 +1358,7 @@ if (reversed == null) { reversed = false; }
 		
 		//סאונד רקע
 		function startBackgroundSound() {
-			createjs.Sound.registerSound("/sounds/questionMusicmp3.mp3", "questionMusic");
+			createjs.Sound.registerSound("./sounds/questionMusicmp3.mp3", "questionMusic");
 			alreadyLoadSoundBg = true;
 			createjs.Sound.on("fileload", playBackgroundSound);
 		}
@@ -1382,7 +1382,7 @@ if (reversed == null) { reversed = false; }
 			if (alreadyLoadSoundCorrect) {
 				playCorrectSound();
 			} else {
-				createjs.Sound.registerSound("/sounds/correctmp3.mp3", "CorrectMusic");
+				createjs.Sound.registerSound("./sounds/correctmp3.mp3", "CorrectMusic");
 				alreadyLoadSoundCorrect = true;
 				createjs.Sound.on("fileload", playCorrectSound);
 			}
@@ -1404,7 +1404,7 @@ if (reversed == null) { reversed = false; }
 			if (alreadyLoadSoundIncorrect) {
 				playIncorrectSound();
 			} else {
-				createjs.Sound.registerSound("/sounds/incorrectmp3.mp3", "incorrectMusic");
+				createjs.Sound.registerSound("./sounds/incorrectmp3.mp3", "incorrectMusic");
 				alreadyLoadSoundIncorrect = true;
 				createjs.Sound.on("fileload", playIncorrectSound);
 			}
@@ -1427,7 +1427,7 @@ if (reversed == null) { reversed = false; }
 			if (alreadyLoadSoundClapping) {
 				playClappingSound();
 			} else {
-				createjs.Sound.registerSound("/sounds/clappingmp3.mp3", "ClappingMusic");
+				createjs.Sound.registerSound("./sounds/clappingmp3.mp3", "ClappingMusic");
 				alreadyLoadSoundClapping = true;
 				createjs.Sound.on("fileload", playClappingSound);
 			}
